@@ -2,7 +2,11 @@
 
 <h3 align="center">Open Source Pentesting Gadgets Developers</h3>
 <img align="right" height="300" src="https://avatars.githubusercontent.com/u/180070439?v=4"  />
+<p align="left"> 🟢 Hardware Hacking<br><br> 🟢 CyberSecurity Tools<br><br> 🟢  Pentesting Gadgets<br><br> 🟢 IOT Projects</p>
 
+
+
+<br>
 
 
 <div align="center">
